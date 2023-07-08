@@ -1,2 +1,2 @@
-# problema-da-ordenacao-em-kjava
+# problema-da-ordenacao-em-java
 O PROBLEMA DA ORDENAÇÃO EM JAVA -  ANÁLISE ASSINTÓTICA E DAS TÉCNICAS DE PROGRAMAÇÃO APLICADAS A ALGORITMOS GENÉRICOS
